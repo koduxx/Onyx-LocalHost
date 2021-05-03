@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\config_template",
+    "\\config_template\\profiles",
+    "\\hotfixes",
+    "\\managers",
+    "\\structs",
+    "\\xmpp"
+  ],
+  "SelectedNode": "\\xmpp\\Client.js",
+  "PreviewInSolutionExplorer": false
+}
